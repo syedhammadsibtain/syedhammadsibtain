@@ -6,5 +6,8 @@
 </div>
 
 ## 💻 My Tech Stack:
-
-[![Node.js, NestJS, PHP, Laravel, JavaScript, TypeScript, Angular, ReactJS, AWS, MySQL, MongoDB, Jenkins, CI\CD](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,js,ts,angular,react,aws,mysql,mongodb,jenkins&perline=4)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,js,ts,angular,react,aws,mysql,mongodb,jenkins&perline=4)" />
+  </a>
+</p>
