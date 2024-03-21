@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Hammad Sibtain</h1>
-<h3 align="center">A seasoned Full Stack developer, I specialize in developing robust and scalable software applications. My proficiency lies in building high-performance APIs, designing resilient database architectures with RDBMS or NoSQL, and ensuring smooth integration with modern frontend frameworks.</h3>
+<p align="left">A seasoned Full Stack developer, I specialize in developing robust and scalable software applications. My proficiency lies in building high-performance APIs, designing resilient database architectures with RDBMS or NoSQL, and ensuring smooth integration with modern frontend frameworks.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhammadsibtain&label=Profile%20views&color=0e75b6&style=flat" alt="syedhammadsibtain" /> </p>
 
